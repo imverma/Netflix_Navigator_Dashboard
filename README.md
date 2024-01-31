@@ -4,10 +4,6 @@
 
 This repository hosts the dataset and details related to the Tableau dashboard visualization of Netflix shows and movies. The dashboard provides insights into the type, release year, rating, and country distribution of Netflix content, among other metrics.
 
-## Dashboard
-
-You can find the dashboard here - [Netflix Dashboard](https://public.tableau.com/app/profile/dhvani.kothari/viz/Netflix_Dashboard_16955120692320/Netflix?publish=yes)
-
 ## Dataset
 
 The Netflix Data Visualization Dashboard was crafted to provide a comprehensive view of Netflix's vast array of shows and movies. With the goal of handling over 50,000 records, the dashboard was meticulously engineered on Tableau, ensuring streamlined data integration and swift analysis. By leveraging cutting-edge data analytics techniques, this project not only uncovers hidden insights and trends but also simplifies the understanding of user preferences by a factor of two.
@@ -38,13 +34,3 @@ You can find the dataset in this repository or view it [here](./netflix_titles.c
 
 - **Tableau Public**: For creating the interactive dashboard.
 - **Python**: For data preprocessing (if any).
-
-## How to Use
-
-1. Clone this repository.
-2. Open the `netflix_titles.csv` in any data visualization tool of your choice.
-3. Alternatively, you can directly view the Tableau dashboard [here](https://public.tableau.com/app/profile/dhvani.kothari/viz/Netflix_Dashboard_16955120692320/Netflix?publish=yes).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
